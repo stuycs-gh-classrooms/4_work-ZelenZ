@@ -18,4 +18,5 @@ void setup(){
   drawLightning(int(random(500)),0.0,50);
   drawLightning(int(random(500)),0.0,50);
   drawLightning(int(random(500)),0.0,50);
+  drawLightning(int(random(500)),0.0,50);
 }
