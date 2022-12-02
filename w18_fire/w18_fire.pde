@@ -30,7 +30,6 @@ void draw() {
   if (burning) {
     liveFire(tract);
   }//burning
-  println(burning);
 }//draw
 
 
